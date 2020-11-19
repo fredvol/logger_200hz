@@ -1,3 +1,10 @@
- pandoc -s 	--lua-filter fixlinks.lua --metadata pagetitle="Rescue Opening force"  --css=pandoc.css -o index.html readme.md
+pandoc -s  --lua-filter fixlinks.lua --metadata pagetitle="Rescue Opening force"  --css=pandoc.css -o index.html readme.md
 
- pandoc readme.md --pdf-engine=xelatex -o report.pdf
+pandoc readme.md --pdf-engine=xelatex -o report.pdf
+
+pandoc -V geometry:margin=1in index.html -o example14.pdf
+
+pandoc readme.md  \
+    -f markdown \
+    -o test.pdf \
+    -V geometry:"margin=1in, landscape"

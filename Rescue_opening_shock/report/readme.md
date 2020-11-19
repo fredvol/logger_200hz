@@ -1,5 +1,5 @@
 # Acceleration during parachute opening 
-*2020/11/17 - fred  - v 1.0*
+*2020/11/17 - fred  - v 1.1*
 
 ## Goals
 The goal is to have a idea of the force apply on the mass during an EN 12491 Load test session. For that an accelerometer has been installed on the dummy mass.
@@ -12,7 +12,8 @@ The goal is to have a idea of the force apply on the mass during an EN 12491 Loa
     * WitMotion WT901SDCL. 
     * log acceleration (x,y,z) at 200 Hz with timestamp
     * Max : 16 g on each axis. ( we checked that we never exceed 16g during and opening shock , but it was reach several time during ground shock)
-    * https://www.amazon.fr/gp/product/B085NWVRS2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+    * [amazon link](https://www.amazon.fr/gp/product/B085NWVRS2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+    * [manufacturer website](http://wiki.wit-motion.com/english/doku.php?id=welcome)
 * Units:
     * Mass : Kg
     * Force : daN
@@ -25,16 +26,16 @@ With the index of the drop.
 
 *Note : , right click , view image to explore all the graph*
 
-![Figure_all](image\Figure_all.png "Figure_all")
-
+![Full run](image/Figure_all.png "Figure_all_toto")\
 
 When we zoom on the first drop :
 
-![Figure_1out_modif](image\Figure_1out_modif.png "Figure_1out_modif")
+![complete Drop 1](image/Figure_1out_modif.png "Figure_1out_modif")\
 
 
 Zoom on the opening of the first drop :
-![Figure_1_modif](image\Figure_1_modif.png "Figure_1_modif")
+
+![Opening Drop 1](image/Figure_1_modif.png "Figure_1_modif")\
 
 
 
@@ -63,19 +64,30 @@ Note:
 * Start time is just approximative to get an idea on the full log, no precise criteria were use to set it.
 
 ## Zoom on each drop
-All graph: 
+All graphs: 
 
-![drop_1](image\Figure_1.png "Figure_1_modif")
-![drop_2](image\Figure_2.png "Figure_2_modif")
-![drop_3](image\Figure_3.png "Figure_3_modif")
-![drop_4](image\Figure_4.png  "Figure_4_modif")
-![drop_5](image\Figure_5.png  "Figure_5_modif")
-![drop_6](image\Figure_6.png  "Figure_6_modif")
-![drop_7](image\Figure_7.png  "Figure_7_modif")
-![drop_8](image\Figure_8.png "Figure_8_modif")
-![drop_9](image\Figure_9.png "Figure_9_modif")
-![drop_10](image\Figure_10.png "Figure_10_modif")
-![drop_11](image\Figure_11.png "Figure_11_modif")
-![drop_12](image\Figure_12.png "Figure_12_modif")
+![Drop_1](image/Figure_1.png "Figure_1_modif") 
 
-**The End !**
+![Drop_2](image/Figure_2.png "Figure_2_modif") 
+
+![Drop_3](image/Figure_3.png "Figure_3_modif") 
+
+![Drop_4](image/Figure_4.png  "Figure_4_modif") 
+
+![Drop_5](image/Figure_5.png  "Figure_5_modif") 
+
+![Drop_6](image/Figure_6.png  "Figure_6_modif") 
+
+![Drop_7](image/Figure_7.png  "Figure_7_modif") 
+
+![Drop_8](image/Figure_8.png "Figure_8_modif") 
+
+![Drop_9](image/Figure_9.png "Figure_9_modif") 
+
+![Drop_10](image/Figure_10.png "Figure_10_modif") 
+
+![Drop_11](image/Figure_11.png "Figure_11_modif") 
+
+![Drop_12](image/Figure_12.png "Figure_12_modif") 
+
+
