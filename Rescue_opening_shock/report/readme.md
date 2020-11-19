@@ -25,22 +25,18 @@ With the index of the drop.
 
 *Note : , right click , view image to explore all the graph*
 
- <figure>
-    <img src="image\Figure_all.png" alt="Figure_all" style="width:100%">
-    <figcaption>Fig.1 - Full log wwith index drop.</figcaption>
-</figure> 
+![Figure_all](image\Figure_all.png "Figure_all")
+
 
 When we zoom on the first drop :
-<figure>
-    <img src="image\Figure_1out_modif.png" alt="Figure_1out_modif" style="width:100%">
-    <figcaption>Fig.2 - Full run of drop 1.</figcaption>
-</figure> 
+
+![Figure_1out_modif](image\Figure_1out_modif.png "Figure_1out_modif")
+
 
 Zoom on the opening of the first drop :
-<figure>
-    <img src="image\Figure_1_modif.png" alt="Figure_1_modif" style="width:100%">
-    <figcaption>Fig.3 - Full run of drop 1.</figcaption>
-</figure>
+![Figure_1_modif](image\Figure_1_modif.png "Figure_1_modif")
+
+
 
 ## Results:
 This table resume all the test parameters and the calculated force :
@@ -69,64 +65,17 @@ Note:
 ## Zoom on each drop
 All graph: 
 
-<figure>
-    <img src="image\Figure_1.png" alt="Figure_1" style="width:100%">
-    <figcaption>Fig.4 - drop 1.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_2.png" alt="Figure_2" style="width:100%">
-    <figcaption>Fig.5 - drop 2.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_3.png" alt="Figure_3" style="width:100%">
-    <figcaption>Fig.6 - drop 3.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_4.png" alt="Figure_4" style="width:100%">
-    <figcaption>Fig.7 - drop 4.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_5.png" alt="Figure_5" style="width:100%">
-    <figcaption>Fig.8 - drop 5.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_6.png" alt="Figure_6" style="width:100%">
-    <figcaption>Fig.9 - drop 6.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_7.png" alt="Figure_7" style="width:100%">
-    <figcaption>Fig.10 - drop 7.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_8.png" alt="Figure_8" style="width:100%">
-    <figcaption>Fig.11 - drop 8.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_9.png" alt="Figure_9" style="width:100%">
-    <figcaption>Fig.11 - drop 9.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_10.png" alt="Figure_10" style="width:100%">
-    <figcaption>Fig.12 - drop 10.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_11.png" alt="Figure_11" style="width:100%">
-    <figcaption>Fig.13 - drop 11.</figcaption>
-</figure>
-
-<figure>
-    <img src="image\Figure_12.png" alt="Figure_12" style="width:100%">
-    <figcaption>Fig.14 - drop 12.</figcaption>
-</figure>
+![drop_1](image\Figure_1.png "Figure_1_modif")
+![drop_2](image\Figure_2.png "Figure_2_modif")
+![drop_3](image\Figure_3.png "Figure_3_modif")
+![drop_4](image\Figure_4.png  "Figure_4_modif")
+![drop_5](image\Figure_5.png  "Figure_5_modif")
+![drop_6](image\Figure_6.png  "Figure_6_modif")
+![drop_7](image\Figure_7.png  "Figure_7_modif")
+![drop_8](image\Figure_8.png "Figure_8_modif")
+![drop_9](image\Figure_9.png "Figure_9_modif")
+![drop_10](image\Figure_10.png "Figure_10_modif")
+![drop_11](image\Figure_11.png "Figure_11_modif")
+![drop_12](image\Figure_12.png "Figure_12_modif")
 
 **The End !**
