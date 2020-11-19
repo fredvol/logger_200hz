@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Rescue_opening_shock/Data/proceed/data_1.txt
